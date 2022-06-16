@@ -1,0 +1,3 @@
+Para la ejecucion del programa es necesario tener python3.
+Posteriormente hay que dirigirse en el archivo Aplicacion.py desde la consola, y luego
+escribir el siguiente comando: Python3 Aplicacion.py
